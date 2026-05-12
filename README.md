@@ -1,4 +1,4 @@
-#Still getting everything to work properly after uploading them. Will need to download the files and run in an IDE to see games in action
+# Still getting everything to work properly after uploading them. Will need to download the files and run in an IDE to see games in action
 # Zelda-Style Game
 
 A top-down adventure game inspired by The Legend of Zelda, built three times in different languages as a learning exercise to understand how the same game logic translates across languages and environments.
