@@ -5,7 +5,7 @@ A top-down adventure game inspired by The Legend of Zelda, built three times in 
 ## Versions
 
 ### Java
-The original version. Uses MVC (Model-View-Controller) architecture to separate game logic, rendering, and input handling. No external libraries required.
+The original version. Uses MVC (Model-View-Controller) architecture to separate game logic, rendering, and input handling. 
 
 **To run:**
 
