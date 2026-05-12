@@ -30,7 +30,7 @@ python game.py
 ## Gameplay
 - Move Link with the arrow keys
 - Throw a boomerang with the spacebar
-- Open treasure chests to collect rupees
+- Open treasure chests to collect rupees by hitting with a boomerang
 - Hit Cuccos with the boomerang too many times and they'll swarm you
 - Press `E` to enter edit mode and place trees, chests, and Cuccos on the map
 - Press `S` to save the map, `L` to load it, `C` to clear it
