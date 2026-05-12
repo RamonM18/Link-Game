@@ -19,7 +19,7 @@ It will initially just show link in a blank map but there is a map that you can 
 **To run:** Open `game.html` in a browser.
 
 ### Python (Pygame)
-The most feature completed version. Adds Cuccos (chickens) that bounce around the map and attack Link if provoked too many times — a reference to the classic Zelda mechanic. 
+The most feature completed version. Adds Cuccos (chickens) that bounce around the map and attack Link if provoked too many times and has everything else from the previous version. The Cuccos are still a work in progress as they can get stuck or don't reset properly throughout the game. 
 
 **To run:**
 
