@@ -9,7 +9,8 @@ A top-down adventure game inspired by The Legend of Zelda, built three times in 
 The original version. Uses MVC (Model-View-Controller) architecture to separate game logic, rendering, and input handling. 
 
 **To run:**
-There is a bash file in the code subfolder that you can use to compile and run
+
+There is a build.bat file in the code subfolder that you can use to compile and run
 
 ### JavaScript (HTML5 Canvas)
 A browser-based port of the Java version. Runs directly in the browser — no install needed. Uses an HTML5 canvas and a drag-and-drop JSON map loader to place sprites.
