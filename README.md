@@ -25,7 +25,7 @@ The most feature completed version. Adds Cuccos (chickens) that bounce around th
 
 pip install pygame
 
-python main.py
+python game.py
 
 ## Gameplay
 - Move Link with the arrow keys
